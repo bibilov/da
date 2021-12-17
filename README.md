@@ -6,7 +6,7 @@
 
 #Answers
 
-1 task /n
+1 task \n
 1051 /n
 
 2 task /n
