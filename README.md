@@ -7,5 +7,5 @@
 #Answers
 
 1)1051
-2) http
+2) ![Топ-5 образований менеджеров] (https://github.com/sHakalUF/da/blob/main/2%20task.jpg)
 3) http
