@@ -9,5 +9,5 @@
 1)1051
 
 2) ![2 task](https://github.com/sHakalUF/da/blob/main/2%20task.jpg)
-3) 
-4) ![3 task](https://github.com/sHakalUF/da/blob/main/3%20task.jpg)
+
+3) ![3 task](https://github.com/sHakalUF/da/blob/main/3%20task.jpg)
